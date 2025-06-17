@@ -3,3 +3,4 @@
 GIT CLONE
 
 git remote
+git remote get-url origin
