@@ -1,3 +1,5 @@
 # UDEMY PRACTICE 1 Y 2
 
 GIT CLONE
+
+git remote
